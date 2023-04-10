@@ -1,9 +1,10 @@
 # dvc-demo
-##demo
 
+##demo
 
 ###demo
 
-
-
+'''
 pip install -r requirements.txt
+
+'''
